@@ -13,4 +13,4 @@ ports:
 ingress: true
 panel_icon: mdi:beer
 panel_title: BarTender
-image: ghcr.io/cjramseyer/tender/{arch}
+image: ghcr.io/cjramseyer/bartender/{arch}
