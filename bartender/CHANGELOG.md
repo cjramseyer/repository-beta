@@ -1,8 +1,13 @@
 ## What's Changed
 
-## 🚀 Features
+## 🧰 Maintenance
 
-- feat: sync dev updates into main @cjramseyer (#31)
-- feat: implement issue updates, docs refresh, and Prettier fixes @cjramseyer (#30)
+- release: merge dev into main @cjramseyer (#33)
+- feat: printable menu, runtime QR support, and docs updates @cjramseyer (#32)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.2.0...v0.3.0
+## 📚 Documentation
+
+- release: merge dev into main @cjramseyer (#33)
+- feat: printable menu, runtime QR support, and docs updates @cjramseyer (#32)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.3.0...v0.3.1
